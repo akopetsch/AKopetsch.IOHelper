@@ -3,7 +3,7 @@
 using System;
 using System.Text;
 
-namespace IOHelper
+namespace AKopetsch.IOHelper
 {
     public static class HexStringConverter
     {

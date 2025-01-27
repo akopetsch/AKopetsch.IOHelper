@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\IOHelper\IOHelper.csproj" />
+    <ProjectReference Include="..\AKopetsch.IOHelper\AKopetsch.IOHelper.csproj" />
   </ItemGroup>
 
   <ItemGroup>

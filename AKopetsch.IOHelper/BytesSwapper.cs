@@ -3,7 +3,7 @@
 using System;
 using System.Runtime.CompilerServices;
 
-namespace IOHelper
+namespace AKopetsch.IOHelper
 {
     public static class BytesSwapper
     {

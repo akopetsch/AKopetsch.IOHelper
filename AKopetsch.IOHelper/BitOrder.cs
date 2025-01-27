@@ -1,6 +1,6 @@
 ﻿// SPDX-License-Identifier: MIT
 
-namespace IOHelper
+namespace AKopetsch.IOHelper
 {
     public enum BitOrder
     {

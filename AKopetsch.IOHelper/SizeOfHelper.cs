@@ -4,7 +4,7 @@ using System;
 using System.Runtime.InteropServices;
 using System.Text;
 
-namespace IOHelper
+namespace AKopetsch.IOHelper
 {
     public class SizeOfHelper
     {

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOHelper", "IOHelper\IOHelper.csproj", "{C3581FCE-122E-4862-B26B-BA0DECD0054A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AKopetsch.IOHelper", "AKopetsch.IOHelper\AKopetsch.IOHelper.csproj", "{C3581FCE-122E-4862-B26B-BA0DECD0054A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3E177230-D64D-4C51-90B2-F9BE2D44D0C5}"
 	ProjectSection(SolutionItems) = preProject
@@ -13,7 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOHelper.Tests", "IOHelper.Tests\IOHelper.Tests.csproj", "{520D6998-B9BA-4333-A09F-DE2F495F2E33}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AKopetsch.IOHelper.Tests", "AKopetsch.IOHelper.Tests\AKopetsch.IOHelper.Tests.csproj", "{520D6998-B9BA-4333-A09F-DE2F495F2E33}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

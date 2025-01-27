@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 
-namespace IOHelper
+namespace AKopetsch.IOHelper
 {
     // TODO: make this class more like BinaryReader
 

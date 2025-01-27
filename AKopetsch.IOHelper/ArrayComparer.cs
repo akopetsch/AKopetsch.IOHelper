@@ -3,7 +3,7 @@
 using System;
 using System.Collections;
 
-namespace IOHelper
+namespace AKopetsch.IOHelper
 {
     public static class ArrayComparer
     {

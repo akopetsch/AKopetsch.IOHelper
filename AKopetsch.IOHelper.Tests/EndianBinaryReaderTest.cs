@@ -1,6 +1,6 @@
 ﻿// SPDX-License-Identifier: MIT
 
-namespace IOHelper.Tests
+namespace AKopetsch.IOHelper.Tests
 {
     public class EndianBinaryReaderTest
     {

@@ -2,7 +2,7 @@
 
 using System;
 
-namespace IOHelper
+namespace AKopetsch.IOHelper
 {
     public static class HashCodeHelper
     {
