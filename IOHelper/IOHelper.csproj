@@ -3,6 +3,22 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <Nullable>enable</Nullable>
+    <Description>A collection of various helper classes for byte-level operations.</Description>
+    <Authors>Alexander Kopetsch</Authors>
+    
+    <PackageVersion>0.1.0-alpha.1</PackageVersion>
+    <PackageProjectUrl>https://github.com/akopetsch/AKopetsch.IOHelper</PackageProjectUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>Utility;Bit;Byte;Binary;bits;bytes</PackageTags>
+    
+    <RepositoryUrl>https://github.com/akopetsch/AKopetsch.IOHelper</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    
+    <IncludeSymbols>true</IncludeSymbols>
+    
+    <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    
   </PropertyGroup>
 
 </Project>
